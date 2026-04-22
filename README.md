@@ -9,7 +9,7 @@ Metadata Accuracy: Uses file system creation time to ensure photos end up in the
 Collision Prevention: (Optional/Planned) Handles duplicate filenames to prevent data loss.
 
 ## Tech Stack
-Language: Python 3.14
+Language: Python 3.12/3.13
 Modules: os, shutil, datetime, pathlib
 
 ## How It Works
