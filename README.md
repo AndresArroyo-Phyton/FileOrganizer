@@ -19,6 +19,11 @@ Extract: Retrieves the creation timestamp from each file.
 Create: Checks if the corresponding Year/Month folders exist; if not, it creates them.
 Move: Transfers the file from the source to its new organized home.
 
+## Preview
+| Before (Messy) | After (Organized) |
+| :--- | :--- |
+| ![Before](images/before.png) | ![After](images/organize_files_results_example.png) |
+
 ## Activity Logging
 The system maintains a comprehensive Audit Trail in text format, documenting every file transaction and system event for post-execution verification
 
