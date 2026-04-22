@@ -5,6 +5,7 @@ import filecmp
 # Load libraries
 from pathlib import Path
 from datetime import datetime
+from log_record_functions import write_log_file as write_log_file
 
 
 def check_folder (user_dest_path):
@@ -91,11 +92,12 @@ def copy_files_directory_error (source, destination):
 
 def get_match_files(source_file, destination_file, copy):
     match = filecmp.cmp(source_file, destination_file, shallow=False)
+    #this variable is just for log record text construction 
     if copy:
-        text = "Check before copying"
+        text = "Checking before copying "
     else:
-        text = "Check before erasing"
-    if match :
+        text = "Checking before erasing "
+    if match:
         text = text + ("Files match Origin: " + source_file + " Destination: " + destination_file)
     else:
         text = text + ("Files differ Origin: " + source_file + " Destination: " + destination_file)
