@@ -1,0 +1,6 @@
+2026-04-21 14:09:14> User select destiny folder C:/01 Andres/google-python-exercises/2026
+2026-04-21 14:09:17> User select originals folder C:/01 Andres/google-python-exercises/2026
+2026-04-21 14:09:30> User cancel erase originals
+2026-04-21 14:09:30> Original Folder: C:/01 Andres/google-python-exercises/2026 Exist: True
+2026-04-21 14:09:30> Files found: ['MOVI0007.avi', 'MOVI0011.avi', 'MOVI0025.avi', 'MOVI0026.avi', 'MOVI0027.avi', 'MOVI0038.avi', 'PICT0000.jpg', 'PICT0001.jpg', 'PICT0002.jpg', 'PICT0003.jpg', 'PICT0004.jpg', 'PICT0005.jpg', 'PICT0006.jpg', 'PICT0008.jpg', 'PICT0009.jpg', 'PICT0010.jpg', 'PICT0012.jpg', 'PICT0013.jpg', 'PICT0014.jpg', 'PICT0015.jpg', 'PICT0016.jpg', 'PICT0017.jpg', 'PICT0018.jpg', 'PICT0019.jpg', 'PICT0020.jpg', 'PICT0021.jpg', 'PICT0022.jpg', 'PICT0023.jpg', 'PICT0024.jpg', 'PICT0028.jpg', 'PICT0029.jpg', 'PICT0030.jpg', 'PICT0031.jpg', 'PICT0032.jpg', 'PICT0033.jpg', 'PICT0034.jpg', 'PICT0035.jpg', 'PICT0036.jpg', 'PICT0037.jpg', 'PICT0039.jpg', 'PICT0040.jpg', 'PICT0041.jpg', 'PICT0042.jpg', 'PICT0043.jpg']
+2026-04-21 14:09:30> C:/01 Andres/google-python-exercises/2026/MOVI0007.avi
